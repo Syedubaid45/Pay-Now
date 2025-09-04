@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113118268412",
+    "project_id": "learn-firebase-a278f",
+    "storage_bucket": "learn-firebase-a278f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113118268412:android:53b25fc322155d185f4079",
+        "android_client_info": {
+          "package_name": "com.example.cash_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfg49YoUZToGBVVjSHvfrYWpj_iHVkbuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
